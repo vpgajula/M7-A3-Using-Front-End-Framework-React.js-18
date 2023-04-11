@@ -1,0 +1,19 @@
+{
+  "name": "m7-a3-using-front-end-framework-react.js-18",
+  "version": "1.0.0",
+  "description": "M7-A3-Using Front End Framework React.js 18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpgajula/M7-A3-Using-Front-End-Framework-React.js-18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpgajula/M7-A3-Using-Front-End-Framework-React.js-18/issues"
+  },
+  "homepage": "https://github.com/vpgajula/M7-A3-Using-Front-End-Framework-React.js-18#readme"
+}
